@@ -88,6 +88,7 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      <div id="ground"></div>
     </main>
   );
 }
